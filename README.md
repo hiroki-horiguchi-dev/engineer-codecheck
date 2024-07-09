@@ -1,5 +1,5 @@
 # やったこと
-- ゆめみさんの技術課題をやってみた
+- [ゆめみさんの技術課題](https://github.com/yumemi-inc/android-engineer-codecheck)をやってみた
 - MVVM + Repository パターン
 - API 通信
 - データの永続化
